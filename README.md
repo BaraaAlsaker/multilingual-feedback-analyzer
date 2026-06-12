@@ -14,6 +14,10 @@ using classical, fully explainable machine learning (TF-IDF features + linear mo
 or deep learning required. The whole system lives in one notebook,
 `Multilingual_Feedback_Analyzer.ipynb`, and runs in about a minute on CPU.
 
+## Demo
+
+A screen recording walking through the analyzer is included at [`media/demo.mp4`](media/demo.mp4).
+
 ## What it does
 
 1. Load English and Arabic review datasets.
@@ -93,6 +97,7 @@ multilingual-feedback-analyzer/
 ├── Multilingual_Feedback_Analyzer.ipynb   # full pipeline
 ├── data/
 │   └── raw/Restaurant_Reviews.tsv         # English dataset (Arabic downloaded separately)
+├── media/demo.mp4                         # screen-recorded walkthrough
 ├── outputs/
 │   ├── figures/    # confusion matrices, comparison chart, word clouds
 │   ├── models/     # saved .joblib models and TF-IDF vectorizers
