@@ -1,0 +1,15 @@
+=== Error analysis — English (LR) ===
+
+False positives (predicted Positive, actually Negative):
+  - I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.
+  - Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.
+  - This place deserves one star and 90% has to do with the food.
+  - Host staff were, for lack of a better word, BITCHES!
+  - I checked out this place a couple years ago and was not impressed.
+
+False negatives (predicted Negative, actually Positive):
+  - And the chef was generous with his time (even came around twice so we can take pictures with him).
+  - They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.
+  - Couldn't ask for a more satisfying meal.
+  - Service is quick and even "to go" orders are just like we like it!
+  - I would recommend saving room for this!

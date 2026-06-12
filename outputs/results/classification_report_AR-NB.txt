@@ -1,0 +1,11 @@
+Classification report — AR-NB
+========================================
+
+              precision    recall  f1-score   support
+
+    Negative       0.90      0.92      0.91      7928
+    Positive       0.91      0.90      0.91      7927
+
+    accuracy                           0.91     15855
+   macro avg       0.91      0.91      0.91     15855
+weighted avg       0.91      0.91      0.91     15855

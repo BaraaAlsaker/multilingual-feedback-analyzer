@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+nlp_project/
+venv/
+.venv/
+env/
+
+# Large / derived data (download Arabic HARD separately — see README)
+/data/raw/balanced-reviews.txt
+/data/raw/balanced-reviews.csv
+/data/processed/

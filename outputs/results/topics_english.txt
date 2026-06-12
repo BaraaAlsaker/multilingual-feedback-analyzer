@@ -1,0 +1,8 @@
+LDA topics — English
+========================================
+
+Topic 1: back, go, wait, love, time, never, one, minut, come, way
+Topic 2: food, servic, like, friendli, delici, nice, restaur, staff, even, tri
+Topic 3: great, disappoint, also, pretti, experi, servic, made, menu, worst, tast
+Topic 4: get, realli, good, star, chicken, dish, burger, food, like, well
+Topic 5: place, good, food, would, eat, servic, bad, recommend, pizza, price
